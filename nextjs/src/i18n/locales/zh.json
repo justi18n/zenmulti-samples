@@ -1,0 +1,44 @@
+{
+  "home": "首页",
+  "contact": "联系我们",
+  "contact_us": "联系我们",
+  "releases": "更新日志",
+  "legal": "法律与合规",
+  "terms": "服务协议",
+  "privacy": "隐私策略",
+  "cookies": "Cookies",
+  "blog": "Blog",
+  "download": "免费下载",
+  "required": "完全免费，需要 macOS 10.13 以上",
+  "slogan": {
+    "l": "好用的",
+    "r": "macOS 磁盘清理工具"
+  },
+  "seo": {
+    "name": "PrettyClean",
+    "title": "极致扫描，快速清理",
+    "description": "好用的磁盘工具, 使用 Rust 语言编写的 macOS 磁盘清理工具"
+  },
+  "highlight": {
+    "multi-chip": {
+      "title": "多芯片支持",
+      "desc": "Pretty Clean 支持 Intel 与 Apple Silicon 系列芯片（包含 M1/M2）。让您的电脑充分发挥硬件性能，扫描速度迅捷如飞。"
+    },
+    "small-and-fast": {
+      "title": "小且强大",
+      "desc": "Pretty Clean 安装包的体积小于 6MB，但性能与功能却不打折扣。"
+    },
+    "multiple-scanning": {
+      "title": "多种扫描",
+      "desc": "Pretty Clean 拥有多种扫描策略，针对用户、系统、应用等产生的缓存与下载文件夹中的安装包，尽可能地帮您释放磁盘空间。"
+    },
+    "security": {
+      "title": "隐私安全",
+      "desc": "Pretty Clean 公开所有的扫描过程，您可以清晰地观察到所有被扫描的文件，并承诺不会上传任何扫描信息，我们绝对保证您的隐私安全。"
+    },
+    "developer": {
+      "title": "开发者模式",
+      "desc": "Pretty Clean 支持扫描与清理主流开发工具留下来的编译缓存，目前这是市场上唯一支持开发者选项的磁盘清理工具。"
+    }
+  }
+}
